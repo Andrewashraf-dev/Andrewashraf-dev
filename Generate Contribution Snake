@@ -21,3 +21,4 @@ jobs:
           author_name: github-actions
           author_email: github-actions@github.com
           message: "Update contribution snake"
+Delete broken workflow file
